@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Pratham Kandari",
+        "gravatar": "https://res.cloudinary.com/dz482ov5h/image/upload/v1706880597/samples/uzrsme1sczdtifxth1e3.png",
+        "techStack": ["FrontEnd", "Backend", "AWS Cloud", "Microsoft Azure"],
+        "fieldOfInterest": ["AI", "Frontend", "Backend"],
+        "bio": "Full Stack Developer"
+    },
+
+    {
+        "name": "Rushil Kandari",
+        "gravatar": "https://res.cloudinary.com/dz482ov5h/image/upload/v1706880597/samples/uzrsme1sczdtifxth1e3.png",
+        "techStack": ["FrontEnd", "Google Cloud", "Docker"],
+        "fieldOfInterest": ["AI", "Frontend",  "DevOps"],
+        "bio": "DevOps Engineer"
+    },
+
+    {
+        "name": "Rahul Gupta",
+        "gravatar": "https://res.cloudinary.com/dz482ov5h/image/upload/v1706880597/samples/uzrsme1sczdtifxth1e3.png",
+        "techStack": ["Backend", "Google Cloud", "Docker"],
+        "fieldOfInterest": ["ML", "Full Stack Development",  "Cloud"],
+        "bio": "Cloud Engineer"
+    }
+]
