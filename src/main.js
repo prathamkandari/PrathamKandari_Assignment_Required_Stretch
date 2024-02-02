@@ -8,7 +8,7 @@ const Main = () => {
     const [searchKeyword, setSearchKeyword] = useState(''); // State for the search keyword
 
     const fetchData = () => {
-        fetch("http://localhost:5000/api/student/")
+        fetch("https://internshipbytive.azurewebsites.net/api/student")
             .then((response) => response.json())
             .then((data) => {
                 let pratham = data.myData || [];
